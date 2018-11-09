@@ -2,7 +2,8 @@
 .callout {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background: linear-gradient(90deg, fade-out($white, 0.9) 0%, fade-out($white, 0.9) 100%), url('../img/v1/crossroads.jpeg');
+  color: $white;
+  background: linear-gradient(90deg, fade-out($white, 0.9) 0%, fade-out($white, 0.9) 100%), url('../img/v1/dots.jpeg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
